@@ -48,8 +48,7 @@ minima:
   skin: classic
 
   nav_pages:
-    - title: About
-      url: /about/
+    - about.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
