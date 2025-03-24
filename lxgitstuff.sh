@@ -10,5 +10,5 @@ echo -e "\nEnter commit Message"
 read COMMIT
 sudo -E git commit -m "$COMMIT"
 sudo -E git status
-sudo -E git branch -M main
-sudo -E git push
+#sudo -E git branch -M main
+sudo -E git push -u origin main
