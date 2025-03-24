@@ -3,8 +3,9 @@
 # `exec (ssh-agent -c)` and `ssh-add ~/.ssh/id_ed25519_jayden` work,
 # not with mac for somereason
 # but does not effect the current terminal when running `sudo -E git cmd`
-ID="~/.ssh/newmac_id_ed25519"
-export GIT_SSH_COMMAND="ssh -i $ID"
+#ID="~/.ssh/newmac_id_ed25519"
+#export GIT_SSH_COMMAND="ssh -i $ID"
+export GIT_SSH_COMMAND="ssh -i ~/.ssh/newmac_id_ed25519"
 sudo -E git add .
 echo -e "\nEnter commit Message"
 read COMMIT
