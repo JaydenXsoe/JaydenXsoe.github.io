@@ -17,6 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+title: Blog
 name: JaydenXsoe
 email: hi@example.com
 
@@ -25,8 +26,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hello, this is just a mind spew for some of my researched curiosities through AI and other stuff. 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jaydenxsoe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-github_username: JaydenXsoe
 
 # Build settings
 theme: minima
@@ -52,7 +51,31 @@ minima:
     - title: About
       url: /about/
 
+# Set to `true` to show excerpts on the homepage.
+#show_excerpts: false
 
+# Minima date format.
+# The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
+# Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+#date_format: "%b-%d-%Y"
+
+#twitter_username: jekyllrb
+#github_username: JaydenXsoe
+
+# Social Media Links
+# Renders icons via Font Awesome Free webfonts CDN, based on ordered list of entries.
+#
+# Entry keys:
+# * title    Tooltip rendered on hovering over icon.
+# * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
+# * url      Full URL of social profile.
+social_links:
+  - title: JaydenXsoe
+    icon: github
+    url: "https://github.com/JaydenXsoe"
+#  - title: Jekyll at X (formerly Twitter)
+#    icon: x-twitter
+#    url: "https://x.com/jekyllrb"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
