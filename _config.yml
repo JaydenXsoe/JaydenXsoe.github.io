@@ -1,18 +1,24 @@
 # Site settings
 title: Blog
 email: ""
+
 description: "Hello, this is just a mind spew for some of my researched curiosities through AI and other stuff."
 baseurl: ""
 url: "http://jaydenxsoe.github.io"
 #twitter_username: jaydenxsoe
 github_username:  jaydenxsoe
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+theme: minima
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
 
-highlighter: rouge
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
+# Build settings
+#markdown: kramdown
+#permalink: pretty
+#
+#highlighter: rouge
+#kramdown:
+#  input: GFM
+#  auto_ids: true
+#  syntax_highlighter: rouge
