@@ -5,11 +5,11 @@
 # but does not effect the current terminal when running `sudo -E git cmd`
 #ID="~/.ssh/newmac_id_ed25519"
 #export GIT_SSH_COMMAND="ssh -i $ID"
-export GIT_SSH_COMMAND="ssh -i ~/.ssh/newmac_id_ed25519"
-sudo -E git add .
+#export GIT_SSH_COMMAND="ssh -i ~/.ssh/newmac_id_ed25519"
+git add .
 echo -e "\nEnter commit Message"
 read COMMIT
-sudo -E git commit -m "$COMMIT"
-sudo -E git status
-#sudo -E git branch -M main
-sudo -E git push -u origin main
+git commit -m "$COMMIT"
+git status
+git branch -M main
+git push -u origin main
