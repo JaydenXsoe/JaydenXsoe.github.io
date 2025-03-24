@@ -17,10 +17,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Blog
-author:
-  name: JaydenXsoe
-  email: hi@example.com
+name: JaydenXsoe
+email: hi@example.com
 
 root: /
 description: >- # this means to ignore newlines until "baseurl:" 
@@ -28,11 +26,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jaydenxsoe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  JaydenXsoe
+github_username: JaydenXsoe
 
 # Build settings
 theme: minima
-
 #remote_theme: jekyll/minima
 
 plugins:
@@ -65,7 +62,8 @@ minima:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+#exclude:
+#    include: footer_header.html
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
