@@ -2,9 +2,8 @@
 layout: post
 title:  "Mesopotamia and It's Modern States"
 date:   2025-03-24 03:20:00 -0400
-categories: jekyll update
 ---
-As I initially started learning on [Brilliant.org][brilliant-org] about `Cryptocurrency`, I came across this opener:
+When initially starting to learning about `Cryptocurrency` on [Brilliant.org][brilliant-org], I was greeted with the lesson opener:
 
 >"A Brief History of Currency
 >
