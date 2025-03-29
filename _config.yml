@@ -1,13 +1,15 @@
 # Site settings
 title: Blog
-email: ""
-
-description: "Hello, this is just a mind spew for some of my researched curiosities through AI and other stuff."
-baseurl: ""
+description: "Hello, this is just a mind spew of some of my researched curiosities using AI and other resources."
+baseurl: "/blog"
 url: "http://jaydenxsoe.github.io"
+
+# Social settings
+email: ""
 #twitter_username: jaydenxsoe
 github_username:  jaydenxsoe
 
+# Build settings
 theme: minima
 #plugins:
 #  - jekyll-feed

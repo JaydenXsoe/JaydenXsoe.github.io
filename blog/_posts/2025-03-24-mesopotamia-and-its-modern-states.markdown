@@ -95,93 +95,97 @@ Without reading ahead, I wonder after all these years how could a `Fertile Cresc
 > * [The Smithsonian: The Secrets of the Mesopotamia][smithsonian] 
 > * [Wikepedia: Mesopotamia][wiki-mesopotamia]
 
-Seeing all these conflicts play out in text, synthesized by AI, trained on data from the real world, I can't help but notice that history tends to repeat itself in many ways. The shortcomings of humans and in meeting their needs, the complexities of civilizations, the overwhelming breadth and depth of the interactions within timelines.
+Seeing all these conflicts play out in text, synthesized by AI, trained on data from the real world, I can't help but notice that history tends to repeat itself in many ways. The shortcomings of humans and in meeting their needs, the complexities of civilizations, and the overwhelming breadth and depth of the interactions within timelines.
 
-It seems that there really can't be a full answer for what may have truly taken place and to what extent this damage can be undone, however I am aware that there are always ways in which humans find new and innovative ways to better support societies, when people and the systems they build, work together to achieve a desired and achievable outcome.
+It seems that there really can't be a full answer for what may have truly taken place and to what extent this damage can be undone, however I am aware that there are always ways in which humans find new and innovative approaches to better support societies, when people and the systems they build, work together to achieve a desired and achievable outcome.
 
 To return back to the topic of why modern day Mesopotamia turned into a barren sandy wasteland, I posed the question:
 >"How was Mesopotamia also known as the Fertile Crescent turned into a land mostly deserterted of lush greenery?"
+
 and the answer:
-You've hit upon a really fascinating and complex question! The Fertile Crescent, and particularly 
-Mesopotamia (the heart of that crescent), was once incredibly productive, but it’s now largely barren. It’s 
-not a simple answer, but here’s a breakdown of the factors involved:
+>You've hit upon a really fascinating and complex question! The Fertile Crescent, and particularly 
+>Mesopotamia (the heart of that crescent), was once incredibly productive, but it’s now largely barren. It’s 
+>not a simple answer, but here’s a breakdown of the factors involved:
+>
+>**1. The Original Fertility – What Made It Work?**
+>
+>* **The Tigris and Euphrates Rivers:** This is the *primary* reason for the original fertility. The annual 
+>flooding of these rivers deposited rich, silt-laden sediment – essentially, incredibly fertile soil – across 
+>the plains. This was a cyclical process, replenishing the land after each flood.
+>* **Irrigation:** The Mesopotamians were incredibly sophisticated at irrigation. They built canals, dikes, 
+>and reservoirs to control and distribute the water, maximizing its use and extending its reach. This was 
+>crucial for agriculture.
+>* **Climate:** The region enjoyed a relatively stable and warm climate, ideal for growing crops like wheat, 
+>barley, dates, and vegetables.
+>* **Early Agricultural Techniques:** The Sumerians and Babylonians developed techniques like crop rotation 
+>and terracing to further enhance productivity.
+>
+>
+>**2. The Reasons for Barrenness Today – A Complex Web of Factors**
+>
+>Here's where it gets complicated. The reasons for the current barrenness are multi-layered and have 
+>developed over centuries:
+>
+>* **Changing River Courses:** This is the *biggest* factor. Over millennia, the Tigris and Euphrates rivers 
+>have *shifted* their courses.  This happened due to:
+>    * **Sediment Deposition:** The very rivers that created the fertile soil also deposited massive amounts 
+>of sediment downstream. This sediment gradually filled in the plains, reducing the amount of new, fertile 
+>soil available.
+>    * **Faulting and Tectonic Activity:**  The region is geologically active, with significant faulting and 
+>tectonic movements. These movements have altered the riverbeds and drainage patterns.
+>    * **Climate Change (Recent):**  More recently (over the last few centuries), climate change has 
+>exacerbated the problem.  Reduced rainfall in the upper reaches of the rivers (due to shifts in weather 
+>patterns) has led to less water flowing into the Tigris and Euphrates, further reducing the amount of 
+>sediment deposited.
+>
+>* **Deforestation:**  Early Mesopotamians cleared vast areas of forest for timber, fuel, and land for 
+>agriculture. This deforestation contributed to soil erosion and reduced the land's ability to retain 
+>moisture.
+>
+>* **Over-Irrigation:** Ironically, the very irrigation systems that initially boosted productivity 
+>eventually contributed to the problem.  Excessive irrigation led to salinization – the buildup of salts in 
+>the soil.  As water evaporated, it left behind concentrated salts, making the soil increasingly unsuitable 
+>for agriculture.
+>
+>* **Warfare and Abandonment:**  Constant warfare and instability throughout Mesopotamian history led to the 
+>abandonment of settlements and the disruption of agricultural practices.
+>
+>* **Modern Issues:**  In the 20th and 21st centuries, dam construction by Turkey and Iraq has significantly 
+>reduced the flow of water into the Tigris and Euphrates, further compounding the problem.
+>
+>
+>**3. Current Status & Efforts**
+>
+>Today, the Mesopotamian plain is largely desert. However, there are ongoing efforts to revive agriculture 
+>through:
+>
+>* **Desalination:**  Producing freshwater from seawater.
+>* **Modern Irrigation Techniques:**  Using more efficient irrigation methods to minimize water waste and 
+>salinization.
+>* **Soil Remediation:**  Trying to remove salts from the soil.
+>* **Research into Drought-Resistant Crops:**  Developing crops that can thrive in the harsh conditions.
+>
+>
+>
+>**In short, the Fertile Crescent’s demise wasn’t a sudden event but a gradual process driven by natural 
+>geological changes, human activities, and, more recently, climate change and human intervention.**
+>
+>**Resources for Further Research:**
+>
+>* **Smithsonian Magazine - The Lost Fertile Crescent:** 
+>[https://www.smithsonianmag.com/science-nature/the-lost-fertile-crescent-180956688/](https://www.smithsonianm[https://www.smithsonianmag.com/science-nature/the-lot-fertile-crescent-180956688/](https://www.smithsonianmag.com/science-nature/the-lost-fertile-crescent-180956688/)
+>* **National Geographic - The Lost Cradle of Civilization:** 
+>[https://www.nationalgeographic.com/magazine/article/lost-fertile-crescent](https://www.nationalgeographic.co[https://www.nationalgeographic.com/magazine/artcle/lost-fertile-crescent](https://www.nationalgeographic.com/magazine/article/lost-fertile-crescent)
+>
+>
+>Would you like me to delve deeper into a specific aspect of this topic, such as:
+>
+>*   The role of climate change?
+>*   Specific irrigation techniques?
+>*   The impact of dam construction?
 
-**1. The Original Fertility – What Made It Work?**
-
-* **The Tigris and Euphrates Rivers:** This is the *primary* reason for the original fertility. The annual 
-flooding of these rivers deposited rich, silt-laden sediment – essentially, incredibly fertile soil – across 
-the plains. This was a cyclical process, replenishing the land after each flood.
-* **Irrigation:** The Mesopotamians were incredibly sophisticated at irrigation. They built canals, dikes, 
-and reservoirs to control and distribute the water, maximizing its use and extending its reach. This was 
-crucial for agriculture.
-* **Climate:** The region enjoyed a relatively stable and warm climate, ideal for growing crops like wheat, 
-barley, dates, and vegetables.
-* **Early Agricultural Techniques:** The Sumerians and Babylonians developed techniques like crop rotation 
-and terracing to further enhance productivity.
 
 
-**2. The Reasons for Barrenness Today – A Complex Web of Factors**
-
-Here's where it gets complicated. The reasons for the current barrenness are multi-layered and have 
-developed over centuries:
-
-* **Changing River Courses:** This is the *biggest* factor. Over millennia, the Tigris and Euphrates rivers 
-have *shifted* their courses.  This happened due to:
-    * **Sediment Deposition:** The very rivers that created the fertile soil also deposited massive amounts 
-of sediment downstream. This sediment gradually filled in the plains, reducing the amount of new, fertile 
-soil available.
-    * **Faulting and Tectonic Activity:**  The region is geologically active, with significant faulting and 
-tectonic movements. These movements have altered the riverbeds and drainage patterns.
-    * **Climate Change (Recent):**  More recently (over the last few centuries), climate change has 
-exacerbated the problem.  Reduced rainfall in the upper reaches of the rivers (due to shifts in weather 
-patterns) has led to less water flowing into the Tigris and Euphrates, further reducing the amount of 
-sediment deposited.
-
-* **Deforestation:**  Early Mesopotamians cleared vast areas of forest for timber, fuel, and land for 
-agriculture. This deforestation contributed to soil erosion and reduced the land's ability to retain 
-moisture.
-
-* **Over-Irrigation:** Ironically, the very irrigation systems that initially boosted productivity 
-eventually contributed to the problem.  Excessive irrigation led to salinization – the buildup of salts in 
-the soil.  As water evaporated, it left behind concentrated salts, making the soil increasingly unsuitable 
-for agriculture.
-
-* **Warfare and Abandonment:**  Constant warfare and instability throughout Mesopotamian history led to the 
-abandonment of settlements and the disruption of agricultural practices.
-
-* **Modern Issues:**  In the 20th and 21st centuries, dam construction by Turkey and Iraq has significantly 
-reduced the flow of water into the Tigris and Euphrates, further compounding the problem.
-
-
-**3. Current Status & Efforts**
-
-Today, the Mesopotamian plain is largely desert. However, there are ongoing efforts to revive agriculture 
-through:
-
-* **Desalination:**  Producing freshwater from seawater.
-* **Modern Irrigation Techniques:**  Using more efficient irrigation methods to minimize water waste and 
-salinization.
-* **Soil Remediation:**  Trying to remove salts from the soil.
-* **Research into Drought-Resistant Crops:**  Developing crops that can thrive in the harsh conditions.
-
-
-
-**In short, the Fertile Crescent’s demise wasn’t a sudden event but a gradual process driven by natural 
-geological changes, human activities, and, more recently, climate change and human intervention.**
-
-**Resources for Further Research:**
-
-* **Smithsonian Magazine - The Lost Fertile Crescent:** 
-[https://www.smithsonianmag.com/science-nature/the-lost-fertile-crescent-180956688/](https://www.smithsonianm[https://www.smithsonianmag.com/science-nature/the-lot-fertile-crescent-180956688/](https://www.smithsonianmag.com/science-nature/the-lost-fertile-crescent-180956688/)
-* **National Geographic - The Lost Cradle of Civilization:** 
-[https://www.nationalgeographic.com/magazine/article/lost-fertile-crescent](https://www.nationalgeographic.co[https://www.nationalgeographic.com/magazine/artcle/lost-fertile-crescent](https://www.nationalgeographic.com/magazine/article/lost-fertile-crescent)
-
-
-Would you like me to delve deeper into a specific aspect of this topic, such as:
-
-*   The role of climate change?
-*   Specific irrigation techniques?
-*   The impact of dam construction?
 
 
 [sask-ag-bartering]: https://exploresaskag.ca/evolution/trade/the-barter-system/
