@@ -1,7 +1,7 @@
 # Site settings
 title: Blog
 description: "Hello, this is just a mind spew of some of my researched curiosities using AI and other resources."
-baseurl: "/blog"
+baseurl: "/"
 url: "https://jaydenxsoe.github.io"
 
 # Social settings

@@ -14,7 +14,7 @@ Remembering only the basics about this topic from school, I decided to research 
 
 As I am intrigued by unraveling the meaning behind everything, I search up the original meaning of `Mesopotamia`, which is translated from Greek to mean "the land between the rivers".
 
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/N-Mesopotamia_and_Syria_english.svg/2560px-N-Mesopotamia_and_Syria_english.svg.png alt=Mesopotamia>Map of Mesopotamia: Attribution Goren tek-en https://creativecommons.org/licenses/by-sa/4.0/
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/N-Mesopotamia_and_Syria_english.svg/2560px-N-Mesopotamia_and_Syria_english.svg.png alt=Mesopotamia>Map of Mesopotamia: Attribution Goren tek-en https://creativecommons.org/licenses/by-sa/4.0/</img>
 
 As seen above, the rivers in the name refers to the Tigres and the Euphrates, along with it's tributary Khabur.
 
