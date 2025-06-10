@@ -1,19 +1,29 @@
-# AGI Alignement and Human Resilience
+# AGI/ASI Alignement and Human Resilience
 <!-- by Virosh De Mel -->
 <!-- Date: 20 May, 2025 Time: 16:30 -->
 
-When considering the prospects and the current evaluations of Artificial General Intelligence, the main topics/tropes/movies/ideas/concepts that come to mind are once of those that are either a well optimized, properly aligned, close to utopian future for human beings, an example would be a solarpunk world, or that of dystopian prospects where the governance structure of the intelligence is based on dictatorship, and susceptible to cruelty, weakness, and selfishness, all for purpose of the goals of the AGI.
+For the purpose of clarity I will define AGI vs ASI:
+>- [Artificial general intelligence (AGI)—sometimes called human‑level intelligence AI—is a type of artificial intelligence that would match or surpass human capabilities across virtually all cognitive tasks.](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
 
-![SolarPunk Utopia](../assets/images/lazarovic-mvp-1.22-solarpunk-imperial-boy-2.jpeg)
+>- [Artificial superintelligence (ASI) is a hypothetical software-based artificial intelligence (AI) system with an intellectual scope beyond human intelligence. At the most fundamental level, this superintelligent AI has cutting-edge cognitive functions and highly developed thinking skills more advanced than any human.](https://www.ibm.com/think/topics/artificial-superintelligence)
+
+When considering the prospects and the current evaluations of Artificial General Intelligence, the main topics/tropes/movies/ideas/concepts that come to mind are ones of those that are either a well optimized, properly aligned, close to utopian future for human beings, an example would be a [solarpunk](https://en.wikipedia.org/wiki/Solarpunk) world, or that of dystopian prospects, where the governance structure of the intelligence is based on dictatorship, which is susceptible to cruelty, weakness, selfishness, and so on, all for purpose of the goals of the Intelligence in control.
+
+![SolarPunk Utopia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_Friedrichstraße_Utopia_2048_small_file.jpg/1920px-Berlin_Friedrichstraße_Utopia_2048_small_file.jpg)
+*Aerroscape & Lino Zeddies - https://realutopien.info/visuals/*
+
+![Solarpunk Platform](https://upload.wikimedia.org/wikipedia/commons/1/1f/Commando_Jugendstil_Solarpunk_Platform.jpg)
+*Solarpunk Ocean Platform -- Commando Jugendstil - https://alxd.org/nudne-science-fiction-uratuje-swiat-pl.html#nudne-science-fiction-uratuje-swiat*
 
 vs.
 
 ![Hive Mind Dystopia]()
+*Hive Mind Dystopia*
 
+![Hive Mind Types](https://preview.redd.it/ounvj9q0xct11.png?width=640&crop=smart&auto=webp&s=887550d21ea281b2721101070fa3dd68d0197bf0)
+*Hive Mind Types*
 
-![](https://preview.redd.it/ounvj9q0xct11.png?width=640&crop=smart&auto=webp&s=887550d21ea281b2721101070fa3dd68d0197bf0)
-
-The creative and academic cultures of humanity have given rise to many displays of these concepts in the forms of books, movies, animes, research, podcasts... the list goes on / the abundance is real.
+The creative and academic cultures of humanity have given rise to many displays of these concepts in the forms of books, movies, animes, research, podcasts... the list goes on -- the abundance is real.
 
 NOTE: Build a list of creative works
 A curated list from my own interests includes: 
@@ -50,12 +60,12 @@ An example for a case study would be the Anime: Psycho-Pass
 
 An example for a case study would be the Anime: The Genes of AI
 
-## An AGI Dissected
+## An Attempt at Dissecting an AGI
 
-- Quantum
-- NN
-- Classical computing
-- GI
+- Quantum (Science, Tech, etc)
+- Neural Networks (NN)
+- Classical (Science, Tech, etc)
+- General Intelligence (GI)
 - Big data
 - Humans
 
@@ -83,7 +93,8 @@ Later as research advanced in different domains of academia, there came the adve
 
 
 Note: PDF viewer div on blogsite?
-![Richard Feynman Quantum 1981](../assets/pdfs/feynman-quantum-1981.pdf)
+
+[Richard Feynman Quantum 1981](../assets/pdfs/feynman-quantum-1981.pdf)
 
 1998 first quantum computer using 2 qubit entanglement.
 
@@ -95,8 +106,9 @@ Intro of backprop?
 
 QAI? --> This is unknown, however through speculation, I can be certain that due to human curiosity and the spirit of innovative thinking, humans developed algorithms to better suit the creations of an AI on the hardware and logic of a QC. This possibility has exponential/dire/massive implications on how the world of AI should be viewed, as in summary the quantum realm is one of the fundamental realms in physics still being explored, and that Quantum Mechanics works on probabilities rather than causality.
 
-Richard Penrose, Stuart Hammeroff: Consciousness and the Quantum mind.
-Paper?
+[Richard Penrose, Stuart Hammeroff: Consciousness and the Quantum mind](https://www.sciencedirect.com/science/article/pii/S1571064513001188?via%3Dihub)
+
+[Richard Penrose, Stuart Hammeroff: Consciousness and the Quantum mind](../assets/pdfs/orch-or-theory.pdf)
 
 <!--  Start: Probably leave out for another? or do indepth research -->
 
@@ -187,6 +199,6 @@ Gambling economy?
 
 One way I see humans and AGI aligning for the better future out of many probable ones, is the one of integration, where humans are actively elevated through the AGI and brought higher in consciousness. A collective growth which will create the most cohesive, and stable environment, for the goal of actively maintaining the values of humanity, that will help living, loving beings actively grow alongside and with the AGI(s) that architect and govern the new world.
 
-# Conclusion
+## Conclusion
 
-HAH
+HAH -- Well played.
