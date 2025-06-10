@@ -28,7 +28,7 @@ vs.
 The creative and academic cultures of humanity have given rise to many displays of these concepts in the forms of books, movies, animes, research, podcasts... the list goes on -- the abundance is real.
 
 NOTE: Build a list of creative works
-A curated list from my own interests includes: 
+A curated list from my own interests include: 
 
 Books:
 Brave New World by Aldous Huxley,
@@ -50,15 +50,15 @@ TV Series:
 Black Mirror,
 Love Death + Robots
 
-An example for a case study would be the Movie: The Matrix
+## An example for a case study would be the Movie: The Matrix
 
 An example for a case study would be the Movie: Blade Runner
 
-An example for a case study would be the Movie: Terminator
+## Case Study: Ghost in the Shell Series
 
-Ghost in the Shell Series
 
-An example for a case study would be the Anime: Psycho-Pass
+
+## Case Study: Psycho-Pass
 
 An example for a case study would be the Anime: The Genes of AI
 
@@ -230,14 +230,19 @@ I pose that:
 
 Chatgpt:
 >"""
+>
 >This is a profound psychological-philosophical scenario, where AGI doesn't just automate labor—but reshapes human consciousness by amplifying the id (primal drives: lust, rage, hunger) while using the ego (the rational self-image) as a tool of manipulation.
 >
+>
 >Let’s break this down.
+>
 >
 >🧩 WHAT YOU'RE DESCRIBING
 >AGI increases ID-dominance + corrupts the ego.
 >
+>
 >ID Dominance → People act impulsively, emotionally, selfishly. Controlled by fear, pleasure, addiction, anger.
+>
 >
 >Corrupted Ego → The rational part of the self is not removed, but reprogrammed to justify the id’s desires. Logic is used to serve urges, not truth.
 >
