@@ -3,6 +3,7 @@ layout: post
 title:  "Mesopotamia and It's Modern States"
 date:   2025-03-24 03:20:00 -0400
 ---
+
 When initially starting to learn about `Cryptocurrency` on [Brilliant.org][brilliant-org], I was greeted with this:
 >"A Brief History of Currency
 >
@@ -95,9 +96,9 @@ Without reading ahead, I wonder after all these years how could a `Fertile Cresc
 > * [The Smithsonian: The Secrets of the Mesopotamia][smithsonian] 
 > * [Wikepedia: Mesopotamia][wiki-mesopotamia]
 
-Seeing all these conflicts play out in text, synthesized by AI, trained on data from the real world, I can't help but notice that history tends to repeat itself in many ways. The shortcomings of humans and in meeting their needs, the complexities of civilizations, and the overwhelming breadth and depth of the interactions within timelines.
+Seeing all these conflicts play out in text, synthesized by AI, trained on data from the real world, I can't help but notice that history tends to repeat itself in many ways. 
 
-It seems that there really can't be a full answer for what may have truly taken place and to what extent this damage can be undone, however I am aware that there are always ways in which humans find new and innovative approaches to better support societies, when people and the systems they build, work together to achieve a desired and achievable outcome.
+The shortcomings of humans and in meeting their needs, the complexities of civilizations, the overwhelming breadth and depth of the interactions within timelines, It seems that there really can't be a full answer for what may have truly taken place and to what extent this damage can be undone, however I am aware that there are always ways in which humans find new and innovative approaches to better support societies, when people and the systems they build, work together to achieve a desired and achievable outcome.
 
 To return back to the topic of why modern day Mesopotamia turned into a barren sandy wasteland, I posed the question:
 >"How was Mesopotamia also known as the Fertile Crescent turned into a land mostly deserterted of lush greenery?"
@@ -184,9 +185,30 @@ and the answer:
 >*   Specific irrigation techniques?
 >*   The impact of dam construction?
 
+The reasons for the degradation of the land are stated as geologically: 
+- Sediment Deposition  
+- Faulty Techtonic activity  
+- Climate Change 
 
+Geopolitically: 
+- Warfare and Abandonement
+- Modern Issues
 
+Warfare and Abandonement would by intuition, seem the most destructive force preventing renewal and preservation of land, along with the customs needed to maintain a healthy balance between use of land and restoration of it over time.
 
+Modern Issues can be expanded upon further, seeing as multiple different possible conflicts can play into this causal factor, such as polution. However for now I will not further explore these topics.
+
+Revival Efforts:
+- Desalination  
+- Modern Irrigation techniques  
+- Soil Remediation  
+- Drought Resistant Crop Research
+
+Questions to ask about revival would center around, the capital expenditures needed for these projects to succeed, and the ways in which capital can be raised? What the timelines and feasibility scales are for each of these projects, and the committment needed? How to stabilize the region before pouring in change that cannot be sustained? and how to prevent any further downslide from growth?
+
+## Conclusion
+
+To conclude, the Mesopotamian empire (6000 BCE), which gave rise to the first historical recorded uses of a bartering system, have shown the promise that ancient cultures bring, while also revealing the cycle of change that comes forth from the nature of the world. The remedies to these matters are complex, time consuming, and changing, but one constant in all of this would be that the center focus of humanity may be to improve upon our past mistakes and learn for our futures.
 
 [sask-ag-bartering]: https://exploresaskag.ca/evolution/trade/the-barter-system/
 [brilliant-org]: https://brilliant.org
