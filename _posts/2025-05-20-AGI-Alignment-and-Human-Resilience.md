@@ -12,7 +12,12 @@ For the purpose of clarity I will define the difference between AGI vs ASI:
 When considering the prospects and the current evaluations of Artificial General Intelligence, the main topics, tropes, movies, ideas, concepts that come to mind are ones of those that are either a well optimized, properly aligned, close to utopian future for human beings, an example would be a [solarpunk](https://en.wikipedia.org/wiki/Solarpunk) world, or that of dystopian prospects, where the governance structure of the intelligence is based on dictatorship, which uses cruelty, weakness, selfishness, and so on, all for purpose of the goals of the Intelligence in control.
 
 Note: Scale and Center image
-![SolarPunk Utopia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_Friedrichstraße_Utopia_2048_small_file.jpg/1920px-Berlin_Friedrichstraße_Utopia_2048_small_file.jpg){width="800" height="600" style="display: block; margin: 0 auto"} *Aerroscape & Lino Zeddies - https://realutopien.info/visuals/*
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_Friedrichstraße_Utopia_2048_small_file.jpg/1920px-Berlin_Friedrichstraße_Utopia_2048_small_file.jpg" 
+        alt="Aerroscape & Lino Zeddies - https://realutopien.info/visuals/" 
+        width="800" 
+        height="600" 
+        style="display: block; margin: 0 auto" />
 
 ![Solarpunk Platform](https://upload.wikimedia.org/wikipedia/commons/1/1f/Commando_Jugendstil_Solarpunk_Platform.jpg)
 *Solarpunk Ocean Platform -- Commando Jugendstil - https://alxd.org/nudne-science-fiction-uratuje-swiat-pl.html#nudne-science-fiction-uratuje-swiat*
