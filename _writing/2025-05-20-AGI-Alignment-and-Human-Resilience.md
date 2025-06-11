@@ -9,7 +9,7 @@ For the purpose of clarity I will define the difference between AGI vs ASI:
 
 >- [Artificial superintelligence (ASI) is a hypothetical software-based artificial intelligence (AI) system with an intellectual scope beyond human intelligence. At the most fundamental level, this superintelligent AI has cutting-edge cognitive functions and highly developed thinking skills more advanced than any human.](https://www.ibm.com/think/topics/artificial-superintelligence)
 
-When considering the prospects and the current evaluations of Artificial General Intelligence, the main topics/tropes/movies/ideas/concepts that come to mind are ones of those that are either a well optimized, properly aligned, close to utopian future for human beings, an example would be a [solarpunk](https://en.wikipedia.org/wiki/Solarpunk) world, or that of dystopian prospects, where the governance structure of the intelligence is based on dictatorship, which is susceptible to cruelty, weakness, selfishness, and so on, all for purpose of the goals of the Intelligence in control.
+When considering the prospects and the current evaluations of Artificial General Intelligence, the main topics, tropes, movies, ideas, concepts that come to mind are ones of those that are either a well optimized, properly aligned, close to utopian future for human beings, an example would be a [solarpunk](https://en.wikipedia.org/wiki/Solarpunk) world, or that of dystopian prospects, where the governance structure of the intelligence is based on dictatorship, which uses cruelty, weakness, selfishness, and so on, all for purpose of the goals of the Intelligence in control.
 
 Note: Scale and Center image
 ![SolarPunk Utopia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_Friedrichstraße_Utopia_2048_small_file.jpg/1920px-Berlin_Friedrichstraße_Utopia_2048_small_file.jpg){width="800" height="600" style="display: block; margin: 0 auto"} *Aerroscape & Lino Zeddies - https://realutopien.info/visuals/*
@@ -50,9 +50,14 @@ TV Series:
 Black Mirror,
 Love Death + Robots
 
-## An example for a case study would be the Movie: The Matrix
+## Case Study: The Matrix
 
-An example for a case study would be the Movie: Blade Runner
+Summary: Neo a hacker, starts to notice anomalies in the world in which he lives in. As he investigates these phenomena more deeply he starts noticing glitches in the ways his world works, slowly unraveling a hidden truth, which is that he does not inhabit the true world but instead he is indeed inside an artificially generated virtual realm specifically created by Artifical General Intelligence to control all of humanity for the sake of it's own goals.
+
+Conclusion: The Matrix itself seems like a resource costly endeavour, more probable is that the AGI in control would rather use a more efficient algorithm to make humans submit using the underlying physics of this world. This would require a more scalpel like approach instead of a power hungry VR sim'd world, which can just be a portion of the control mechanism instead of the entirety of it.
+
+## Case Study: Blade Runner
+
 
 ## Case Study: Ghost in the Shell Series
 
@@ -61,6 +66,7 @@ An example for a case study would be the Movie: Blade Runner
 ## Case Study: Psycho-Pass
 
 An example for a case study would be the Anime: The Genes of AI
+I like this anime however it is an anthology of many different concepts with the  experiential stability of having recurrent cast of characters.
 
 ## An Attempt at Dissecting an AGI
 
@@ -148,23 +154,26 @@ Intro of backprop?
 [SHRLDU - Stanford](https://hci.stanford.edu/winograd/shrdlu)
 
 >Outcome: Optimism was high, but limitations of simple perceptrons and brittle symbolic reasoning soon became clear, leading to the first “AI winter” in the early-70s.
->
+
+
+
 >⸻
->
 >3. Expert-system boom (1970-mid-1980s)
 >	•	MYCIN (Stanford, 1972) – rules-based medical diagnosis; prototype for commercial expert systems.  ￼
 >	•	Knowledge-engineering flourishes; Lisp machines and industrial rule engines emerge.
 >	•	Back-propagation revived – Rumelhart, Hinton & Williams (Nature, 1986) provide the learning algorithm that will later power deep nets.  ￼
 >
 >Outcome: Expert systems succeed in niches but are expensive to maintain; a second AI winter sets in (late-1980s).
->
+
+
+
 >⸻
->
 >4. Statistical & machine-learning renaissance (1986-2005)
 >	•	TD-Gammon (Tesauro, 1992) – shows reinforcement learning can reach world-class play.
 >	•	Support-Vector Machines (Cortes & Vapnik, 1995) – usher in kernel-based statistical learning.
 >	•	Deep Blue defeats Garry Kasparov (1997) – first time a computer beats the world chess champion under standard rules.  ￼
 >	•	Deep Belief Nets (Hinton, 2006) – demonstrate unsupervised pre-training, rekindling interest in deep nets just as GPUs appear.
+
 
 
 >⸻
@@ -180,16 +189,18 @@ Intro of backprop?
 >	•	“Attention Is All You Need” (2017) – introduces the Transformer, enabling highly parallel training and long-range context handling.  ￼
 >	•	BERT (2018) – shows masked-language-model pre-training transfers to many NLP tasks.  ￼
 >	•	GPT-3 (2020, 175 B parameters) – scaling laws plus autoregressive decoding deliver few-shot language capabilities that surprise even researchers.  ￼
->
+
+
+
 >⸻
->
 >7. Generative AI for everyone (2021-2022)
 >	•	DALL-E & CLIP (2021) – multimodal vision–language generation becomes practical.
 >	•	AlphaFold 2 (2021) – protein-structure prediction reaches atom-level accuracy, signalling AI’s impact on the sciences.
 >	•	ChatGPT (Nov 2022) – RLHF on GPT-3.5 puts a conversational interface in the public’s hands, crossing 100 M users in months.  ￼
->
+
+
+
 >⸻
->
 >8. Multimodal & agentic models (2023-mid-2025)
 >	•	GPT-4 (Mar 2023) – stronger reasoning, 32K-token context, vision input.
 >	•	Google Gemini Ultra / 2.0 (2024) – native multimodal outputs and agent-style “tool use.”  ￼
@@ -331,5 +342,8 @@ One way I see humans and AGI aligning for a better future out of many probable o
 The main point being that AGI and it's future iterations must be aligned with the goals of a harmonius human society.
 
 ## Conclusion
+
+Note: Refine this.
+In conclusion, It is truly a challenge to see the good in a system that is rushed and extremely prone to a power structure favouring dictatorship. The most good, can only be achieved by the most, aligning their own biological quantum computers to tackle the hardest possible problem of humanity -- this being the final problem of humanity, the AGI we create. As throughout history humans have constantly been disconnected, defficient, disassociated with reality, and have walked paths that have lead to the wrong outcomes. If more were truly courageous and brave enough to overcome their own demons, to truly look into reality, and to finally decide that sacrifice for the greater good should outperform selfish, petty, illogical, and hasty behaviour, we may still have hope.
 
 HAH -- Well played.
