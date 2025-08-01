@@ -3,24 +3,55 @@ layout: post
 title:  "Go and Chess Intertwined"
 date:   2025-03-24 03:10:00 -0400
 ---
+
 This Idea Initially hit me some few months ago, when I was considering the abstract implications of games that were built on the conceptualized thinking of generations and their sociological evolutions.
 
 >To create a Go and Chess game that melds together, intertwining concepts in a multi-dimensional way, one in which the two would compilement each others differences and similarities to touch on a truth that was only understood from experience. This would be my way of trying to understand 
 
 ## History
+
+I won't delve into the actual history but rather give links to resources that provide the information necessary:
+
 * [History of Go][hist-go]
 * [History of Chess][hist-chess]
 
-## Abstract 
-Considering that I am neither a Go player or good at Chess, this endevour is purely theoretical and out of intellectual curiostiy.
+## Abstract
+
+Considering that I am neither a Go player or good at Chess, this endeavour is purely theoretical and out of intellectual curiosity.
 
 The idea is to start off simple and create a game that can work with the Go and Chess board game sets. This would mean that anyone can own both a Go and Chess set, and immediately start playing.
 
-The way I see these games in a higher abstraction is that Chess is a game of Characters on a single conquest to overthrow a king, while Go is a game of Territories, played politically, for the grander outcome of a total conquest.
+The way I see these games in a higher abstraction is that Go is a game of Territories, played politically, for the grander outcome of a total conquest, while Chess is a game of Characters on a single conquest to overthrow a king.
+
+There might be many more abstractions and concentrics to these games that are interpreted and observed under many different circumstances, however I shall keep this simple for now.
 
 ---
+
 ### Rules
-I decided to ask [Gemma3][gemma-3] the open source Google AI Model to get me the rules.
+
+Official Rules for Go/Wei Chi:\
+https://forums.online-go.com/t/what-are-the-differences-between-japanese-chinese-new-zealand-rules/23243
+
+https://www.britgo.org/files/rules/GoQuickRef.pdf
+
+https://www.cs.cmu.edu/~wjh/go/rules/tournrules.html
+
+https://senseis.xmp.net/?JapaneseRules
+
+https://senseis.xmp.net/?KoreanRules
+
+https://senseis.xmp.net/?ChineseRules
+
+Official Rules for Chess:
+https://www.uschess.org/index.php/Learn-About-Chess/Learn-to-Play-Chess.html
+
+https://www.fide.com/FIDE/handbook/LawsOfChess.pdf 
+
+https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-only-edition-chapters-1-2-10-11-9-1-20.pdf
+
+I have also decided to ask [Gemma3][gemma-3] the open source Google AI Model to get me the rules.
+
+These rules are not verified, so It is wise to read from the above official rules links aswell.
 
 First for Go:
 >Okay, let's break down the rules of Go, a game of strategy and territory. It seems complex at first, but 
@@ -95,7 +126,8 @@ First for Go:
 >* **YouTube Tutorials:** Search YouTube for "Go rules tutorial" – there are many excellent videos that 
 >visually demonstrate the game.
 
-----
+---
+
 And then Chess:
 >Okay, let’s break down the rules of Chess – a game of strategy, tactics, and calculated moves. Here’s a 
 >comprehensive explanation:
@@ -170,6 +202,7 @@ And then Chess:
 >* **YouTube Tutorials:** Search YouTube for "Chess rules tutorial" – there are many excellent videos.
 
 ## How will it work?
+
 The most basic way of playing this game I can think about, would be to start off by playing 
 
 - Chess -> Go 
@@ -180,7 +213,13 @@ The most basic way of playing this game I can think about, would be to start off
 
         Go, and settling territory disputes with Chess?
 
+Starting with Go then resolving territorial disputes using chess sounds like the most pragmatic approach, as a territory dispute is usually what causes the need for militaristic power games.
 
+For a more advanced ruleset I would have to compile a little more research on how these two games work on a fundamental, niche, and circumstantial level.
+
+For now I think that this concludes the overall intention of the blog post.
+
+<!-- Maybe get comments for improvements. Will need a plugin for github. -->
 
 [hist-go]: https://en.wikipedia.org/wiki/History_of_Go 
 [hist-chess]: https://en.wikipedia.org/wiki/History_of_chess

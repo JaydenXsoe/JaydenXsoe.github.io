@@ -1,4 +1,12 @@
+---
+layout: post
+title: "Report: QAGI, Consciousness, and Alignment"
+date: 2025-07- 16:30:00 -0400
+---
+
 Quick Conclusion: **FREE WILL DOES EXIST, HOWEVER WE MUST ACT QUICKLY!**
+
+I can choose my choices, and also If I expand far enough, I can create the circumstances for the choices I do not have a choice of choosing in the moment.
 
 Assumption: If this tech does have that much control, then assume that
 any form of online manipulation can occur as well, however it will be

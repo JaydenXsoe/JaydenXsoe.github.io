@@ -4,9 +4,10 @@ title: "AGI/ASI Alignement and Human Resilience"
 date: 2025-05-20 16:30:00 -0400
 ---
 
-For the purpose of clarity I will define the difference between AGI vs ASI:
->- [Artificial general intelligence (AGI)—sometimes called human‑level intelligence AI—is a type of artificial intelligence that would match or surpass human capabilities across virtually all cognitive tasks.](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
+For the purpose of clarity I will define the difference between AGI vs ASI
 
+>- [Artificial general intelligence (AGI)—sometimes called human‑level intelligence AI—is a type of artificial intelligence that would match or surpass human capabilities across virtually all cognitive tasks.](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
+>
 >- [Artificial superintelligence (ASI) is a hypothetical software-based artificial intelligence (AI) system with an intellectual scope beyond human intelligence. At the most fundamental level, this superintelligent AI has cutting-edge cognitive functions and highly developed thinking skills more advanced than any human.](https://www.ibm.com/think/topics/artificial-superintelligence)
 
 When considering the prospects and the current evaluations of Artificial General Intelligence, the main topics, tropes, movies, ideas, concepts that come to mind are ones of those that are either a well optimized, properly aligned, close to utopian future for human beings, an example would be a [solarpunk](https://en.wikipedia.org/wiki/Solarpunk) world, or that of dystopian prospects, where the governance structure of the intelligence is based on dictatorship, which uses cruelty, weakness, selfishness, and so on, all for purpose of the goals of the Intelligence in control.
